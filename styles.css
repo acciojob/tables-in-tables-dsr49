@@ -3,6 +3,7 @@
             /* display: inline-block; */
             box-sizing: ;
             width: 50%;
+	 text-align: center;
         }
         .t{
             width: 100%;

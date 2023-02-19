@@ -1,2 +1,11 @@
-
+ th, td , table{
+            border: 2px solid black;
+            /* display: inline-block; */
+            box-sizing: ;
+            width: 50%;
+        }
+        .t{
+            width: 100%;
+            
+        }
 /* Your CSS Code here. */
